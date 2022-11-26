@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksinkvane"]=self["webpackChunksinkvane"]||[]).push([[993],{993:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var a=t(3396);const u=(0,a.Uk)(" Почему мы? ");function r(n,e,t,r,o,s){const c=(0,a.up)("MainContainer");return(0,a.wg)(),(0,a.j4)(c,null,{default:(0,a.w5)((()=>[u])),_:1})}var o=t(9144),s={name:"About",components:{MainContainer:o.Z}},c=t(89);const i=(0,c.Z)(s,[["render",r]]);var f=i}}]);
+//# sourceMappingURL=993.b1ca3b8a.js.map
